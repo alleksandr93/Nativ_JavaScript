@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b89056e5-78aa-4215-af80-85172f880599" name="Changes" comment="Object">
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/01.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/01.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/02.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/02.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/04-02.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/04.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/05.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/05.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson06/06.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson06/06.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson03/03-02.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/unit_testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/unit_testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fxotx4tH01mN2sIKFRCcptGnZF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Jest. does student liv in city?.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.Budget should be changed for FIRE-STATION.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.Budget should be changed for hospital.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.House should be destroyed.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.House should be repaired.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.Staff should be increased.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.buildings with correct staff count.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.city should contains hospital and fire station.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.get only completed task.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.list of streets titles of government buildings.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.list of streets titles.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.new tech skill should be added to student.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.should take old men older then 90.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.split shout be correct.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.staff should be increased.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.student is active.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.test city should contains 3 houses.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.test should be correct.executor&quot;: &quot;Run&quot;,
+    &quot;Jest.text.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Learn/incubator/unit_testing/src/Lesson01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;C:/Learn/incubator/unit_testing/node_modules/react-scripts&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Learn\\incubator\\unit_testing\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Learn\incubator\unit_testing\src\Lesson01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.list of streets titles">
+    <configuration name="House should be destroyed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Lesson04/04-02.test.ts" />
+      <test-names>
+        <test-name value="House should be destroyed" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="buildings with correct staff count" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Lesson04/04-02.test.ts" />
+      <test-names>
+        <test-name value="buildings with correct staff count" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="get only completed task" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Lesson04/04.test.ts" />
+      <test-names>
+        <test-name value="get only completed task" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="list of streets titles of government buildings" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Lesson05/05.test.ts" />
+      <test-names>
+        <test-name value="list of streets titles of government buildings" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="list of streets titles" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Lesson05/05.test.ts" />
+      <test-names>
+        <test-name value="list of streets titles" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.list of streets titles" />
+        <item itemvalue="Jest.list of streets titles of government buildings" />
+        <item itemvalue="Jest.buildings with correct staff count" />
+        <item itemvalue="Jest.House should be destroyed" />
+        <item itemvalue="Jest.get only completed task" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b89056e5-78aa-4215-af80-85172f880599" name="Changes" comment="" />
+      <created>1714752308522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714752308522</updated>
+      <workItem from="1714752310196" duration="1391000" />
+      <workItem from="1714794797591" duration="449000" />
+      <workItem from="1714795823755" duration="1291000" />
+      <workItem from="1714797342546" duration="1348000" />
+      <workItem from="1714865037114" duration="5886000" />
+      <workItem from="1714948313859" duration="4591000" />
+      <workItem from="1714993817364" duration="5828000" />
+      <workItem from="1715002804698" duration="748000" />
+      <workItem from="1715011667653" duration="5131000" />
+      <workItem from="1715030240251" duration="8148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
